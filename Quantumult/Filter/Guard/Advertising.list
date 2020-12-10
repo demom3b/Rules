@@ -294,6 +294,11 @@ DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
 DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
 # --- (Alibaba) ---
 DOMAIN,tunion-api.m.taobao.com,REJECT
+#taobao
+DOMAIN,baichuan-sdk.taobao.com,REJECT
+DOMAIN,adashbc.ut.taobao.com,REJECT
+DOMAIN,adashxgc.ut.taobao.com,REJECT
+DOMAIN,baichuan-sdk.alicdn.com,REJECT
 # > YOUKU
 DOMAIN-SUFFIX,atm.youku.com,REJECT
 DOMAIN,ad.mobile.youku.com,REJECT
