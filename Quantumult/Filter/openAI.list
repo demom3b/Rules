@@ -1,0 +1,5 @@
+#openAI
+DOMAIN-SUFFIX, openai.com,openai
+DOMAIN-SUFFIX, ai.com,openai
+DOMAIN, cdn.auth0.com,openai
+DOMAIN, openaiapi-site.azureedge.net,openai
