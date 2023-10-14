@@ -1,12 +1,12 @@
 #Mastodon Fediverse GFWlist
-HOST-SUFFIX,bgme.me
-HOST-SUFFIX,o3o.ca
-HOST-SUFFIX,m.cmx.im
-HOST-SUFFIX,alive.bar
-HOST-SUFFIX,mastodon.social
-HOST-SUFFIX,mastodon.art
-HOST-SUFFIX,pawoo.net
-HOST-SUFFIX,wxw.moe
-HOST-SUFFIX,utopia.cool
-HOST-SUFFIX,mastodon.world
-HOST-SUFFIX,douchi.space
+DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,o3o.ca
+DOMAIN-SUFFIX,m.cmx.im
+DOMAIN-SUFFIX,alive.bar
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,mastodon.art
+DOMAIN-SUFFIX,pawoo.net
+DOMAIN-SUFFIX,wxw.moe
+DOMAIN-SUFFIX,utopia.cool
+DOMAIN-SUFFIX,mastodon.world
+DOMAIN-SUFFIX,douchi.space
